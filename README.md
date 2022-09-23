@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mname8741@gmail.com**
 
-- 📄 Know about my experiences [https://sanj1997.github.io/static/media/Js_Sanjay.1e8376fcb7fe7c2f9f28.pdf](https://sanj1997.github.io/static/media/Js_Sanjay.1e8376fcb7fe7c2f9f28.pdf)
+- 📄 Know about my experiences <a href="https://sanj1997.github.io/static/media/Js_Sanjay.1e8376fcb7fe7c2f9f28.pdf">**Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
